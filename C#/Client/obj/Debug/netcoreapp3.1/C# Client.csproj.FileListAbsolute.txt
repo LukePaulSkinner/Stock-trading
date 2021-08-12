@@ -1,0 +1,13 @@
+D:\Uni Year 3\CE303\Assignment C#\C# Client\bin\Debug\netcoreapp3.1\C# Client.exe
+D:\Uni Year 3\CE303\Assignment C#\C# Client\bin\Debug\netcoreapp3.1\C# Client.deps.json
+D:\Uni Year 3\CE303\Assignment C#\C# Client\bin\Debug\netcoreapp3.1\C# Client.runtimeconfig.json
+D:\Uni Year 3\CE303\Assignment C#\C# Client\bin\Debug\netcoreapp3.1\C# Client.runtimeconfig.dev.json
+D:\Uni Year 3\CE303\Assignment C#\C# Client\bin\Debug\netcoreapp3.1\C# Client.dll
+D:\Uni Year 3\CE303\Assignment C#\C# Client\bin\Debug\netcoreapp3.1\C# Client.pdb
+D:\Uni Year 3\CE303\Assignment C#\C# Client\obj\Debug\netcoreapp3.1\C# Client.csprojAssemblyReference.cache
+D:\Uni Year 3\CE303\Assignment C#\C# Client\obj\Debug\netcoreapp3.1\C# Client.AssemblyInfoInputs.cache
+D:\Uni Year 3\CE303\Assignment C#\C# Client\obj\Debug\netcoreapp3.1\C# Client.AssemblyInfo.cs
+D:\Uni Year 3\CE303\Assignment C#\C# Client\obj\Debug\netcoreapp3.1\C# Client.csproj.CoreCompileInputs.cache
+D:\Uni Year 3\CE303\Assignment C#\C# Client\obj\Debug\netcoreapp3.1\C# Client.dll
+D:\Uni Year 3\CE303\Assignment C#\C# Client\obj\Debug\netcoreapp3.1\C# Client.pdb
+D:\Uni Year 3\CE303\Assignment C#\C# Client\obj\Debug\netcoreapp3.1\C# Client.genruntimeconfig.cache

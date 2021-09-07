@@ -15,7 +15,7 @@ Server-Client connection using ports.
 |  Client GUI |   | ✓  |
 | Server GUI  |   |  ✓ |
 | A new server is created by clients when the old is closed  |   | ✓  |
-| New server transition is seamless  |   | ✓  |
+| New server transition is seamless to clients |   | ✓  |
 
 ## Protocol
 

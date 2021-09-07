@@ -14,8 +14,8 @@ Server-Client connection using ports.
 | Client is compatible with the server in the other language  | ✓  |  ✓ |
 |  Client GUI |   | ✓  |
 | Server GUI  |   |  ✓ |
-| Server restarts are correctly implemented  |   | ✓  |
-
+| A new server is created by clients when the old is closed  |   | ✓  |
+| New server transition is seamless  |   | ✓  |
 
 ## Protocol
 

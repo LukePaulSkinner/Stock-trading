@@ -1,5 +1,5 @@
 # Stock-trading
-Server-Client connection using ports.
+Server-Client connection using ports written in C# and Java.
 
 ## Functionality table
 | Function  |  C# |  Java |
